@@ -13,5 +13,6 @@ ___В настоящее время используется как домашн
 ![photo_5438625832210918785_y](https://github.com/user-attachments/assets/18e2042f-0bfc-4aee-80d0-0e66cfbfed08)
 
 
-___Характеристики PC:___
+___Характеристики PC и распиновка платы:___
 ![photo_5438625832210918815_y](https://github.com/user-attachments/assets/0b3f9395-e030-4ff8-843b-d227bb425cc4)
+![image](https://github.com/user-attachments/assets/18a8001a-6cc2-474f-bd12-b3f209e2ea34)
